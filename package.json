@@ -1,0 +1,23 @@
+{
+  "name": "trello-manager-node",
+  "version": "1.0.0",
+  "description": "This s a node version of trello manager while I already had a rails one. It talks to trello APIs and calculate points.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jchappypig/trello-manager-node.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jchappypig/trello-manager-node/issues"
+  },
+  "homepage": "https://github.com/jchappypig/trello-manager-node#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
