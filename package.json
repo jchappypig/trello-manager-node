@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/jchappypig/trello-manager-node#readme",
   "dependencies": {
-    "express": "^4.14.0"
+    "express": "^4.14.0",
+    "lodash": "^4.13.1",
+    "pug": "^2.0.0-beta3"
   }
 }
